@@ -4,6 +4,9 @@
   "main": "src/index.tsx",
   "author": "Ferdinand Antonius",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node src/index.tsx"
+  },
   "devDependencies": {
     "@types/node": "^18.11.18",
     "ts-node": "^10.9.1",
